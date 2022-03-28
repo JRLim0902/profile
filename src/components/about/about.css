@@ -60,9 +60,11 @@ h1{
     }
 
     .about {
+        height: 100vh;
         flex-direction: column;
         text-align: center;
         margin-top: 50px;
+        margin-bottom: 20px;
     }
 
     .about-left {

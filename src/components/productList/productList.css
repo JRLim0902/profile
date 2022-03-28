@@ -34,12 +34,15 @@
 
 @media screen and (max-width:480px) {
     .pl {
+        height: 100vh;
         padding: 10px;
+        margin-bottom: 20px;
+        background-color:  rgb(183, 238, 183);;
     }
 
     .pl-title {
-        margin-top: 10px;
-        font-size: 40px;
+        margin-top: 50px;
+        font-size: 30px;
     }
 
     .pl-texts {
