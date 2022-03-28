@@ -87,16 +87,6 @@ button {
 }
 
 @media screen and (max-width: 480px) {
-<<<<<<< HEAD
-    .contact {
-        height: 100vh;
-    }
-=======
-    .contact{
-        height: 100vh;
-    }
-    
->>>>>>> 016bb79cd5d1c05122ce104a3ab692816bec9251
     .contact-wrapper{
         flex-direction: column;
         padding: 0px 50px;
